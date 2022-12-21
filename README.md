@@ -2,10 +2,11 @@
 This is the sample project with HSS. It involves using a bash script to repeatedly call a R script for graphing a series of sample data in csv format.
 
 ### Install Packages
-Two R packages(ggplot2 and patchwork) are needed for this pipeline. To install the packages, run:
+Three R packages(ggplot2, patchwork, dplyr) are needed for this pipeline. To install the packages, run:
 ```bash
 install.packages('patchwork')
 install.packages('ggplot2')
+install.packages("dplyr")
 ```
 
 ### Run Pipeline

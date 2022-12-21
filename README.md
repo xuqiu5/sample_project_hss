@@ -22,9 +22,8 @@ bash loop.bash '/data/path'
 ```
 
 ### Output
-The script will generate a output folder in '/data/path', it will contain one jpeg output for each csv file in the '/data/path' directory. 
-
-Example output are stored in folder 'Example output'.
+The script will generate a output folder in '/data/path', it will contain one jpeg output for each csv file in the '/data/path' directory. One picture file contains four sub plots, where 3 are bar plots corresponding to column x,y,and a. One is pie chart corresponding to column z. 
 
 
 
+![Example Output](https://github.com/xuqiu5/sample_project_hss/blob/main/Example%20output/sample_file_4_out.jpeg)

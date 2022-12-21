@@ -9,7 +9,7 @@ install.packages('ggplot2')
 ```
 
 ### Run Pipeline
-where '/your/path/' is the pathway containing script loop.bash
+where '/your/path' is the pathway containing script loop.bash
 
 '/data/path' is the folder containing input csv files.
 

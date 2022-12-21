@@ -16,7 +16,7 @@ where '/your/path' is the pathway containing script loop.bash
 'plot.R' is assumed to be in the parent folder of  '/data/path'. 
 
 ```bash
-cd /your/path/
+cd /your/path
 bash loop.bash '/data/path'
 ```
 

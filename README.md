@@ -24,3 +24,7 @@ bash loop.bash '/data/path'
 ### Output
 The script will generate a output folder in '/data/path', it will contain one jpeg output for each csv file in the '/data/path' directory. 
 
+Example output are stored in folder 'Example output'.
+
+
+
